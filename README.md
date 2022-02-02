@@ -1,2 +1,2 @@
-# training_01
+# training_01_hackernews
 hacker news
