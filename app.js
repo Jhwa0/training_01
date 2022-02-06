@@ -18,7 +18,7 @@ function newsFeed(){
     const newsFeed = getData(NEWS_URL);
     const newsList = [];
     let template = `
-        <div>
+        <div class="container mx-auto p-4">
             <h1>Kacker News</h1>
             <ul>
                 {{__news_feed__}}
